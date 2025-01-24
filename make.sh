@@ -17,6 +17,10 @@ go run helloworld.go
 echo "====== Java ======"
 java helloworld.java
 
+# JavaScript
+echo "====== JavaScript ======"
+node helloworld.js
+
 # Lua
 echo "====== Lua ======"
 lua helloworld.lua

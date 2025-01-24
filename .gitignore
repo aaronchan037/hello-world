@@ -4,6 +4,7 @@ src/*
 !src/helloworld.cpp
 !src/helloworld.go
 !src/helloworld.java
+!src/helloworld.js
 !src/helloworld.lua
 !src/helloworld.pl
 !src/helloworld.py

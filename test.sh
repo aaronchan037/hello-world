@@ -11,6 +11,10 @@ go version
 java --version
 javac --version
 
+# JavaScript
+node --version
+npm --version
+
 # Lua
 lua -v
 
