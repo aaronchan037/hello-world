@@ -44,7 +44,7 @@ rustc helloworld.rs -o outfile && ./outfile
 # Shell (Bash, Zsh)
 echo "====== Shell ======"
 sh helloworld.sh
-# bash helloworld.sh
+bash helloworld.sh
 # zsh helloworld.sh
 
 # TeX
