@@ -47,6 +47,10 @@ sh helloworld.sh
 bash helloworld.sh
 # zsh helloworld.sh
 
+# Swift
+echo "====== Swift ======"
+swift helloworld.swift
+
 # TeX
 echo "====== TeX/LaTeX ======"
 pdflatex helloworld.tex

@@ -34,6 +34,9 @@ rustc --version
 bash --version
 zsh --version
 
+# Swift
+swift --version
+
 # LaTeX
 pdflatex --version
 

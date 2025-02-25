@@ -12,6 +12,7 @@ src/*
 !src/helloworld.rb
 !src/helloworld.rs
 !src/helloworld.sh
+!src/helloworld.swift
 !src/helloworld.tex
 !src/helloworld.typ
 
